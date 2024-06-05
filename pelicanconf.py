@@ -32,7 +32,6 @@ MARKDOWN = {
 DEFAULT_DATE = 'fs'
 
 STATIC_PATHS = [
-    'images',
 ]
 
 PAGE_EXCLUDES = STATIC_PATHS
@@ -48,7 +47,6 @@ PLUGINS = [
 ]
 
 ARTICLE_PATHS = [
-    'articles',
 ]
 
 PAGE_URL = '{slug}.html'
