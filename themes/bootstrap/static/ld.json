@@ -1,0 +1,22 @@
+{
+        "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Dave Binetti for West Ada",
+        "description": "As a dad of two girls, my kids come first &mdash; just like every other parent in West Ada.  As Trustee, I'm dedicated to giving them &mdash; and every other student &dash; the best possible public education.",
+        "image": "https://www.dave4westada.com/static/logo.png",
+        "address": "372 S Eagle Rd Suite 195",
+        "url": "https://www.dave4westada.com",
+        "slogan": "Dedicated to Kids",
+        "logo": "https://www.dave4westada.com/static/logo.png",
+        "founder": {
+          "@type": "Person",
+          "name": "Dave Binetti",
+          "description": "Incumbent candidate for West Ada School District Trustee Zone 4.  Father of two girls in the Distict.  Lives in Eagle."
+        },
+        "areaServed": {
+          "@type": "GeoShape",
+          "name": "West Ada School District Zone 4",
+          "description": "West Ada School District Zone 4, serving Eagle, Star, and parts of Meridian and Garden City",
+          "polygon": "[[[[-116.51239580704055, 43.64830783591373], [-116.27436265029561, 43.64888354516146], [-116.27476066974751, 43.719248777509165], [-116.23416328520736, 43.76851251430944], [-116.25269556655962, 43.80470679481978], [-116.51315849386806, 43.80306577452025], [-116.51239580704055, 43.64830783591373]]]]"
+        }
+      }
