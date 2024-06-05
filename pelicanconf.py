@@ -32,6 +32,7 @@ MARKDOWN = {
 DEFAULT_DATE = 'fs'
 
 STATIC_PATHS = [
+    'images',
 ]
 
 PAGE_EXCLUDES = STATIC_PATHS
