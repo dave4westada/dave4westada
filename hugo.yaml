@@ -1,0 +1,6 @@
+baseURL: https://www.dave4westada.com/
+languageCode: en-us
+title: Dave4WestAda
+theme:
+    - PaperMod
+copyright: "© 2026 David Binetti for West Ada, David Binetti Treasurer"
