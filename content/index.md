@@ -1,5 +1,8 @@
 ---
 title: "Thank You"
+hide:
+  - navigation
+  - toc
 ---
 
 ## Thank You for Putting Kids First!

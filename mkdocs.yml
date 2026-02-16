@@ -1,0 +1,8 @@
+site_name: Dave 4 West Ada
+docs_dir: content
+site_url: https://www.dave4westada.com
+theme:
+  name: material
+  logo: assets/logo.png
+extra:
+  generator: false
